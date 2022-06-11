@@ -1,7 +1,0 @@
--> crédits stackoverflow
-
--> confirmer la modif
-
--> retirer l'espace vide en triant (le br là)
-
--> mettre sur pedago
